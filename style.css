@@ -1,0 +1,23 @@
+
+
+.container {
+    position: relative;
+}
+
+.box {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 2px red solid;
+}
+
+#box1 {
+    background-color: black;
+    top: 0;
+    left: 0;
+}
+#box2 {
+    background-color: black;
+    top: 52px;
+    left: 0;
+}
